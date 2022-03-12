@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: darkslategray;
+  
+}
+
+
+.input {
+ 
+  padding: 5px;
+  width: 40%;
+  margin-top: 1%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  padding-left: 1.5%;
+}
+
+.button {
+  background: gray;
+  
+  padding: 5px;
+  width: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  margin-bottom: 5%;
+}
+img {
+  margin: 30px;
+  border: 3px solid white;
+  
+}
+
+ .header{
+  background-color:darkslategray;
+  margin-bottom: 5%; 
+}
+#imageName{
+font-size: 20px;
+position: relative;
+right: 120px;
+top: 1px;
+opacity: 0;
+height: 100px;
+padding-top: 50px;
+width: 50px;
+text-align: center;
+
+
+}
+#imageName:hover{
+  opacity: 1;
+  enable-background: 0.5;
+}
+
+.head{
+  color: black;
+  font-size: 50px;
+  padding: 2%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ingredients{
+  
+  margin: 5px;
+  color: black;
+
+}
